@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently a forth-year PhD student at Nanyang Technological University (NTU), Singapore. 
+
+- 📗 I'm currently working on **conversational AI**, **affective computing**, and **natural language processing**.
+
+- 😄 Here is the chatbot [echo](https://zhongpeixiang.github.io/demo/) from my PhD research. Do check it out! (Note that she is still far from human intelligence 😂) 
+
+- 💬 Check out my [github page](https://zhongpeixiang.github.io) for details.
+
 <!--
 **zhongpeixiang/zhongpeixiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
