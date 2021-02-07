@@ -4,7 +4,7 @@
 
 - 📗 I'm currently working on **conversational AI**, **affective computing**, and **natural language processing**.
 
-- 😄 Here is the chatbot [echo](https://zhongpeixiang.github.io/demo/) from my PhD research. Do check it out! (Note that she is still far from human intelligence 😂) 
+- 😄 Here is the chatbot [echo](https://zhongpeixiang.github.io/demo/) (under maintenance) from my PhD research. Do check it out! (Note that she is still far from human intelligence 😂) 
 
 - 💬 Check out my [github page](https://zhongpeixiang.github.io) for details.
 
