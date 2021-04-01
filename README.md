@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a forth-year PhD student at Nanyang Technological University (NTU), Singapore. 
+- 📗 I'm currently working on **recommendation systems**. Previously, I worked on **conversational AI** and **natural language processing**.
 
-- 📗 I'm currently working on **conversational AI**, **affective computing**, and **natural language processing**.
-
-- 😄 Here is the chatbot [echo](https://zhongpeixiang.github.io/demo/) (under maintenance) from my PhD research. Do check it out! (Note that she is still far from human intelligence 😂) 
+- 🔭 I obtained my PhD in NLP from Nanyang Technological University (NTU), Singapore.
 
 - 💬 Check out my [github page](https://zhongpeixiang.github.io) for details.
 
