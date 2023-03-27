@@ -6,6 +6,8 @@
 
 - 💬 Check out my [github page](https://zhongpeixiang.github.io) for details.
 
+- Highly recommend this tool for research: https://chatpaper.io/
+
 <!--
 **zhongpeixiang/zhongpeixiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
