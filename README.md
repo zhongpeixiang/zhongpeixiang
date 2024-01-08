@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📗 I'm currently working on **recommendation systems**. Previously, I worked on **conversational AI** and **natural language processing**.
+- 📗 I'm currently working on **multimodal learning** and **recommendation systems**. Previously, I worked on **conversational AI** and **natural language processing**.
 
 - 🔭 I obtained my PhD in NLP from Nanyang Technological University (NTU), Singapore.
 
